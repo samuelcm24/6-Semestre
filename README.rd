@@ -9,7 +9,6 @@ Este repositório reúne os materiais, códigos, exercícios, trabalhos e projet
 * **Banco de Dados**
 * **Programação III**
 * **Projeto e Análise de Algoritmos (PAA)**
-* **Estatística Geral**
 
 
 ## 🎯 Objetivo
